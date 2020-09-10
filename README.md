@@ -14,15 +14,10 @@ Bom neste repositório eu irei regisitar minha histório de aprendizado.
 
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context Api]()
-
-**Banco de dados**
-
+- [ ] [Graphql](https://graphql.org/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Knex](http://knexjs.org/)
 - [ ] [Type ORM](https://typeorm.io)
-
-**Frameworks Node**
-
 - [ ] [Adonis.js](https://adonisjs.com/)
 
 ### O que eu talvez aprenda
