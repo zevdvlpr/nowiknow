@@ -8,10 +8,6 @@ Bom neste repositório eu irei regisitar minha histório de aprendizado.
 
 # Eu ainda não sei
 
-### O que eu preciso aprender
-
-**Frameworks React**
-
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context Api]()
 - [ ] [Graphql](https://graphql.org/)
@@ -19,9 +15,6 @@ Bom neste repositório eu irei regisitar minha histório de aprendizado.
 - [ ] [Knex](http://knexjs.org/)
 - [ ] [Type ORM](https://typeorm.io)
 - [ ] [Adonis.js](https://adonisjs.com/)
-
-### O que eu talvez aprenda
-
 - [ ] [PWA](https://web.dev/progressive-web-apps/)
 - [ ] [Firebase](https://firebase.google.com/)
 - [ ] [lerna](https://lerna.js.org/)
