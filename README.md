@@ -4,7 +4,7 @@ O que eu aprendo aqui, fica aqui.
 
 # Visão geral
 
-Bom neste repositório eu irei regisitar minha histório de aprendizado.
+Bom neste repositório eu irei regisitar minha história de aprendizado.
 
 # Eu ainda não sei
 
