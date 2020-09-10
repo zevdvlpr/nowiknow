@@ -28,7 +28,7 @@ Bom neste repositório eu irei regisitar minha histório de aprendizado aqui.
 
 - [ ] [Adonis.js](https://adonisjs.com/)
 
-### O que eu talvez aprenda**
+### O que eu talvez aprenda
 
 - [ ] [PWA](https://web.dev/progressive-web-apps/)
 - [ ] [Firebase](https://firebase.google.com/)
