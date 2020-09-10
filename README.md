@@ -1,13 +1,10 @@
 # Agora eu sei
 
-ReactJS
-NextJS
-React Native (Expo)
-[a] a
+O que eu aprendo aqui, fica aqui.
 
 # Visão geral
 
-Bom neste repositório eu irei regisitar minha histório de aprendizado aqui.
+Bom neste repositório eu irei regisitar minha histório de aprendizado.
 
 # Eu ainda não sei
 
