@@ -1,12 +1,12 @@
-# Agora eu sei
+# 👍 Agora eu sei
 
 O que eu aprendo aqui, fica aqui.
 
-# Visão geral
+# 🚀 Visão geral
 
 Bom neste repositório eu irei registrar minha história de aprendizado.
 
-# Eu ainda não sei
+# 🤔 Eu ainda não sei
 
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context Api]()
