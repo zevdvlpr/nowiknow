@@ -10,6 +10,7 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [PWA](https://web.dev/progressive-web-apps/)
+- [ ] [JWT](https://jwt.io/)
 - [x] [GraphQL](https://graphql.org/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
