@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init --y
+
+PATH: 
+  C:\Ruby26-x64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\ffmpeg\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Users\Ronivon\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Go\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\Ronivon\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Ronivon\AppData\Local\Programs\Python\Python37\;C:\Program Files\heroku\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.2\bin;C:\Users\Ronivon\AppData\Local\Turbo\Cmd\;C:\Users\Ronivon\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ronivon\AppData\Roaming\npm;C:\Users\Ronivon\AppData\Local\Yarn\bin;C:\Users\Ronivon\Library\Android\sdk\platform-tools;C:\Users\Ronivon\Library\Android\sdk\tools;C:\Users\Ronivon\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\Ronivon\Library\Android\sdk\platform-tools;C:\Users\Ronivon\Library\Android\sdk\tools;C:\Program Files (x86)\Nmap;C:\Users\Ronivon\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Docker Toolbox;C:\Users\Ronivon\go\bin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:136724:13)
+      at Interface.emit (events.js:210:5)
+      at Interface._ttyWrite (readline.js:887:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:210:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1153:36)
+      at ReadStream.emit (events.js:210:5)
+      at addChunk (_stream_readable.js:308:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
