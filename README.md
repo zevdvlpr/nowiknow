@@ -9,13 +9,12 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 # 🤔 Eu ainda não sei
 
 - [ ] [Redux](https://redux.js.org/)
-- [ ] [Context Api]()
+- [ ] [PWA](https://web.dev/progressive-web-apps/)
 - [x] [GraphQL](https://graphql.org/)
+- [ ] [Adonis.js](https://adonisjs.com/)
+- [ ] [Nest.js](https://nestjs.com/)
+- [ ] [lerna](https://lerna.js.org/)
+- [ ] [Type ORM](https://typeorm.io)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Knex](http://knexjs.org/)
-- [ ] [Type ORM](https://typeorm.io)
-- [ ] [Adonis.js](https://adonisjs.com/)
-- [ ] [PWA](https://web.dev/progressive-web-apps/)
 - [ ] [Firebase](https://firebase.google.com/)
-- [ ] [lerna](https://lerna.js.org/)
-- [ ] [Gatsby](https://www.gatsbyjs.com/)
