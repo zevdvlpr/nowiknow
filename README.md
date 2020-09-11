@@ -10,7 +10,7 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context Api]()
-- [ ] [GraphQl](https://graphql.org/)
+- [ ] [GraphQL](https://graphql.org/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Knex](http://knexjs.org/)
 - [ ] [Type ORM](https://typeorm.io)
