@@ -2,7 +2,7 @@
 
 ## 🚀 Visão Geral
 
-No curso e abortado  alguns assuntos como: Pra quem serve o GraphQL, como ele funciona e nosso primeiro Hello World! E também é criada uma API GraphQL do zero com Apollo Server, MongoDB e Mongoose.
+No curso e abortado  alguns assuntos como: Pra quem serve o GraphQL, como ele funciona, etc! E também é criada uma API GraphQL do zero com Apollo Server, MongoDB e Mongoose.
 
 ## 📎 Referências
 
