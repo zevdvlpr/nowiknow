@@ -9,6 +9,6 @@ No vídeo foi desenvolvido uma API de autenticação JWT usando o TypeScript com
 
 -  [Vídeo](https://www.youtube.com/watch?v=TjAXBLszCb0&ab_channel=MateusSilva)
 
-## 🌟 Creditos
+## 🌟 Créditos
 
 [Mateus Silva](https://www.instagram.com/imateus.silva)
