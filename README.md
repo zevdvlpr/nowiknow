@@ -14,7 +14,7 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 - [x] [GraphQL](https://graphql.org/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
-- [ ] [lerna](https://lerna.js.org/)
+- [ ] [Lerna](https://lerna.js.org/)
 - [ ] [Type ORM](https://typeorm.io)
 - [x] [Docker](https://www.docker.com/)
 - [ ] [Knex](http://knexjs.org/)
