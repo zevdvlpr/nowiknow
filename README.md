@@ -16,6 +16,6 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 - [ ] [Nest.js](https://nestjs.com/)
 - [ ] [lerna](https://lerna.js.org/)
 - [ ] [Type ORM](https://typeorm.io)
-- [ ] [Docker](https://www.docker.com/)
+- [x] [Docker](https://www.docker.com/)
 - [ ] [Knex](http://knexjs.org/)
 - [ ] [Firebase](https://firebase.google.com/)
