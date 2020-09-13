@@ -1,5 +1,5 @@
 
-# 📊 TypeORM e JWT
+# 💻 TypeORM e JWT
 
 ## 🚀 Visão Geral
 
