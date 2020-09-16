@@ -13,9 +13,11 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 
 # 🤔 Eu ainda não sei
 
+- [ ] [Github Actions](https://github.com/features/actions)
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context API](https://reactjs.org/docs/context.html)
 - [ ] [PWA](https://web.dev/progressive-web-apps/)
+- [ ] [Jest](https://jestjs.io/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
 - [ ] [Lerna](https://lerna.js.org/)
