@@ -14,7 +14,7 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 # 🤔 Eu ainda não sei
 
 - [ ] [Github Actions](https://github.com/features/actions)
-- [ ] [Monnorepo]()
+- [ ] [Monorepo]()
 - [ ] [Lerna](https://lerna.js.org/)
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Context API](https://reactjs.org/docs/context.html)
