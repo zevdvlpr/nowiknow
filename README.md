@@ -22,6 +22,5 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 - [ ] [Jest](https://jestjs.io/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
-- [ ] [Lerna](https://lerna.js.org/)
 - [ ] [Knex](http://knexjs.org/)
 - [ ] [Firebase](https://firebase.google.com/)
