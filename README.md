@@ -23,3 +23,4 @@ Bom neste repositório eu irei registrar minha história de aprendizado.
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
 - [ ] [Firebase](https://firebase.google.com/)
+- [ ] [Postgres](https://www.postgresql.org/)
