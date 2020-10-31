@@ -1,6 +1,6 @@
 # 👍 Now I know
 
-O que eu aprendo, fica aqui.
+What I learn, stays here.
 
 - [x] [JWT](https://jwt.io/)
 - [x] [GraphQL](https://graphql.org/)
