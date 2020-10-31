@@ -1,13 +1,13 @@
 # 📊 GraphQL
 
-## 🚀 Visão Geral
+## 🚀 Overview
 
-No curso e abortado  alguns assuntos como: Pra quem serve o GraphQL, como ele funciona, etc! E também é criada uma API GraphQL do zero com Apollo Server, MongoDB e Mongoose.
+In the course and aborted some subjects as: Who is the GraphQL for, how it works, etc! A GraphQL API is also created from scratch with Apollo Server, MongoDB and Mongoose.
 
-## 📎 Referências
+## 📎 References
 
 -  [Playlist do GraphQL para iniciantes](https://www.youtube.com/watch?v=7RoHxSGVAdU&list=PLPXWI3llyMiK9uw7tfljM2hnQl2qu6CeT&ab_channel=MateusSilva)
 
-## 🌟 Créditos
+## 🌟 Credits
 
 [Mateus Silva](https://www.instagram.com/imateus.silva)
