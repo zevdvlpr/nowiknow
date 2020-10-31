@@ -1,17 +1,17 @@
-# 👍 Agora eu sei
+# 👍 Now I know
 
-O que eu aprendo aqui, fica aqui.
+O que eu aprendo, fica aqui.
 
 - [x] [JWT](https://jwt.io/)
 - [x] [GraphQL](https://graphql.org/)
 - [x] [Type ORM](https://typeorm.io)
 - [x] [Docker](https://www.docker.com/)
 
-# 🚀 Visão geral
+# 🚀 Overview
 
-Bom neste repositório eu irei registrar minha história de aprendizado.
+Well in this repository I will record my learning history.
 
-# 🤔 Eu ainda não sei
+# 🤔 I still do not know
 
 - [ ] [Github Actions](https://github.com/features/actions)
 - [ ] [Monorepo]()
