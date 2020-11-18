@@ -8,7 +8,7 @@ In my case I had to use the Docker Toolbox (because I use windows 7), but only t
 
 ## 📎 References
 
--  [Vídeo](https://www.youtube.com/watch?v=AVNADGzXrrQ&t=642s&ab_channel=Rocketseat)
+-  [Video](https://www.youtube.com/watch?v=AVNADGzXrrQ&t=642s&ab_channel=Rocketseat)
 
 ## 🌟 Credits
 
