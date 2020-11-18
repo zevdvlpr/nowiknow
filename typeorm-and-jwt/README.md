@@ -9,7 +9,7 @@ The video developed a JWT authentication API using TypeScript with TypeORM. Subj
 
 ## 📎 References
 
--  [Vídeo](https://www.youtube.com/watch?v=TjAXBLszCb0&ab_channel=MateusSilva)
+-  [Video](https://www.youtube.com/watch?v=TjAXBLszCb0&ab_channel=MateusSilva)
 
 ## 🌟 Credits
 
