@@ -1,15 +1,15 @@
 # 🐳 Docker
 
-## 🚀 Visão Geral
+## 🚀 Overview
 
-Nesse vídeo mostra como configurar o Docker do zero para um ambiente de desenvolvimento NodeJS utilizando o Docker Compose para orquestração dos containers.
+This video shows how to configure Docker from scratch for a NodeJS development environment using Docker Compose for container orchestration.
 
-No meu caso eu tive que usar o Docker Toolbox (pois eu uso windows 7 ;v), mais só muda a instalação e algums programas de inicialização.
+In my case I had to use the Docker Toolbox (because I use windows 7), but only the installation changes and some startup programs.
 
-## 📎 Referências
+## 📎 References
 
 -  [Vídeo](https://www.youtube.com/watch?v=AVNADGzXrrQ&t=642s&ab_channel=Rocketseat)
 
-## 🌟 Créditos
+## 🌟 Credits
 
 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
