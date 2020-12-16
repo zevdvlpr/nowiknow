@@ -8,6 +8,10 @@ What I learn, stays here.
 - [x] [Docker](https://www.docker.com/)
 - [x] [Monorepo]()
 - [x] [Lerna](https://lerna.js.org/)
+- [x] [Github Actions](https://github.com/features/actions)
+- [x] [Redux](https://redux.js.org/)
+- [x] [Context API](https://reactjs.org/docs/context.html)
+- [x] [Jest](https://jestjs.io/)
 
 # 🚀 Overview
 
@@ -15,11 +19,7 @@ Well in this repository I will record my learning history.
 
 # 🤔 I still do not know
 
-- [ ] [Github Actions](https://github.com/features/actions)
-- [ ] [Redux](https://redux.js.org/)
-- [ ] [Context API](https://reactjs.org/docs/context.html)
 - [ ] [PWA](https://web.dev/progressive-web-apps/)
-- [ ] [Jest](https://jestjs.io/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Nest.js](https://nestjs.com/)
 - [ ] [Firebase](https://firebase.google.com/)
