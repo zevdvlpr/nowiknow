@@ -1,4 +1,8 @@
-# 👍 Now I know
+# Overview
+
+Well in this repository I will record my learning history.
+
+## Now I know
 
 What I learn, stays here.
 
@@ -7,11 +11,7 @@ What I learn, stays here.
 - [x] [Type ORM](https://typeorm.io)
 - [x] [Docker](https://www.docker.com/)
 
-# 🚀 Overview
-
-Well in this repository I will record my learning history.
-
-# 🤔 I still do not know
+## I still do not know
 
 - [ ] [Github Actions](https://github.com/features/actions)
 - [ ] [Monorepo]()
